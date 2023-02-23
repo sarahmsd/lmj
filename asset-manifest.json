@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lmj/static/css/main.d1b15af6.css",
+    "main.js": "/lmj/static/js/main.5a414d0c.js",
+    "static/js/787.82b65551.chunk.js": "/lmj/static/js/787.82b65551.chunk.js",
+    "static/media/olivier.jpg": "/lmj/static/media/olivier.b2908b40d9fb7f86626b.jpg",
+    "static/media/monstera.jpg": "/lmj/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
+    "static/media/basil.jpg": "/lmj/static/media/basil.be00474e950eb5af0054.jpg",
+    "static/media/cactus.jpg": "/lmj/static/media/cactus.a71c2062a926cb3d5db8.jpg",
+    "static/media/pothos.jpg": "/lmj/static/media/pothos.d72dc0ac2f240d84c9d7.jpg",
+    "static/media/lyrata.jpg": "/lmj/static/media/lyrata.2e915120c952bdb7066c.jpg",
+    "static/media/mint.jpg": "/lmj/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
+    "static/media/calathea.jpg": "/lmj/static/media/calathea.455c33e2bd3e5509c907.jpg",
+    "static/media/succulent.jpg": "/lmj/static/media/succulent.f4329849930298a9e46b.jpg",
+    "index.html": "/lmj/index.html",
+    "main.d1b15af6.css.map": "/lmj/static/css/main.d1b15af6.css.map",
+    "main.5a414d0c.js.map": "/lmj/static/js/main.5a414d0c.js.map",
+    "787.82b65551.chunk.js.map": "/lmj/static/js/787.82b65551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b15af6.css",
+    "static/js/main.5a414d0c.js"
+  ]
+}
